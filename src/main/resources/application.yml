@@ -1,0 +1,6 @@
+server:
+  max-http-request-header-size: 65536
+
+spring:
+  application:
+    name: solo_play_api_gateway_server
